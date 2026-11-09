@@ -1,6 +1,4 @@
 defmodule Wax.AttestationStatementFormat.AppleAnonymous do
-  require Logger
-
   @moduledoc false
 
   @behaviour Wax.AttestationStatementFormat
